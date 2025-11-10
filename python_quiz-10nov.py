@@ -174,7 +174,7 @@ stats = [np.median(combined[:,0]), np.std(combined[:,1]), np.sum(combined[:,2])]
 print("\nBirleştirilmiş istatistikler:", stats)
 
 
-## Hocaya mesaj
+## Mesaj
 print("\nHocam,")
 print("Ödevin birini yapamadan, diğeri geliyor")
 print("https://www.youtube.com/watch?v=zA1HxqAg1HU")
