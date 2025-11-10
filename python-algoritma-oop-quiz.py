@@ -1,5 +1,5 @@
 """
-Python OOP Alıştırmaları
+Python Algoritma&OOP Alıştırmaları
 Veri Bilimine Giriş Atölyesi
 """
 
