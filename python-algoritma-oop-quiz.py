@@ -11,7 +11,6 @@ import math
 
 
 # KOLAY SEVİYE SORULAR
-# ‿‿‿‿‿‿‿‿⁣⁣‿‿⁣‿‿⁣‿‿⁣‿⁣‿⁣‿
 
 # SORU 1: Öğrenci Sınıfı
 class Ogrenci:
@@ -204,7 +203,6 @@ class Daire(Sekil):
 
 
 # ORTA SEVİYE SORULAR
-# ‿‿‿‿‿‿‿‿⁣⁣‿‿⁣‿‿⁣‿‿⁣‿⁣‿⁣‿
 
 # SORU 6: Çalışan Yönetim Sistemi
 class Calisan(ABC):
